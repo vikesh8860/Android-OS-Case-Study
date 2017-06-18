@@ -1,4 +1,4 @@
-# Android-Case-Study
+# Android-OS-Case-Study
 A case study on the android Operating System kernel ,the process and thread management of the android OS.
 #### The key points of the case study were to :
 -  Analyse the type of kernel used in android OS and the merits and demerits of using this type of kernel.
